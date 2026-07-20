@@ -1,4 +1,4 @@
-# wecom-bot-helper
+#企微外部群机器人
 企业微信API外部群，支持消息推送、通讯录管理、客户联系等核心接口
 
 [qiwe官网](https:www.qiweapi.com) 
