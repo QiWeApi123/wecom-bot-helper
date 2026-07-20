@@ -41,3 +41,5 @@ curl -X POST http://manager.qiweapi.com/qiwe/api/qw/doApi
  "msg": "success"
 }
 ```
+## 联系企微支持：
+<img width="647" height="705" alt="image" src="https://github.com/user-attachments/assets/c94266a4-af4b-4bfd-9a55-4c2e77a78389" />
